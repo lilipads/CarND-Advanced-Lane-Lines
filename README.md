@@ -6,6 +6,10 @@ In this project, I wrote a software pipeline to identify the lane boundaries in 
 
 ![demo](output_images/result.png)
 
+Video output:
+
+![video](output_images/demo.gif)
+
 ## Method
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
